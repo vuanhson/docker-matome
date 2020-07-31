@@ -1,4 +1,4 @@
-# Docker Architechture
+# Docker Architecture
 
 ![docker-architecture](media/03-01.png)
 
